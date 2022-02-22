@@ -1,4 +1,4 @@
-package com.test;
+package com.mark42inbound;
 
 import lombok.Getter;
 

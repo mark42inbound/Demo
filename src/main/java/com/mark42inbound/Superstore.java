@@ -1,8 +1,8 @@
-package com.test;
+package com.mark42inbound;
 
 import java.util.List;
 
-public class Test {
+public class Superstore {
 
     Item A, B, C, D;
 
@@ -10,7 +10,7 @@ public class Test {
     List<PricingRule> transaction2Rules;
 
     public static void main(String[] args) {
-        var test = new Test();
+        var test = new Superstore();
         test.init();
         test.doCheckout();
     }
